@@ -1,2 +1,2 @@
 # images-procesing
- Histogram equalization, filters application, visualization etc. using python libraries
+ Histogram equalization, filters application, etc. using python libraries
